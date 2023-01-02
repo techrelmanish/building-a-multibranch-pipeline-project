@@ -1,3 +1,5 @@
+#Edited by Manish
+
 #!/usr/bin/env sh
 
 echo 'The following command terminates the "npm start" process using its PID'
